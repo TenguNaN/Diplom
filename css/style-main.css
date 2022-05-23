@@ -1,0 +1,67 @@
+.body {
+	
+}
+
+.header {
+	position: relative;
+	height: 75px;
+	width: 100%;
+	background-color: #052FD4;
+}
+
+.header-button {
+	color: #fff;
+	float: right;
+	margin: 8px;
+	width: 9%;
+	height: 80%;
+	border: 2px solid #000;
+	border-radius: 10px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-size: 24px;
+	/*background-color: ;*/
+}
+
+.main {
+	position: relative;
+	font-family: Helvetica, sans-serif;
+	margin: 15px;
+}
+
+.courses {
+	float: left;
+	width: 19%;
+	border: 1px solid #000;
+	height: 600px;
+	border-radius: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.tests {
+	float: right;
+	width: 80%;
+	border: 1px solid #000;
+	height: 600px;
+	border-radius: 20px;
+}
+.course2 {
+	display: hidden;
+}
+
+.main-container {
+	border: 1px solid #000;
+	border-radius: 20px;
+	height: 500px;
+}
+
+.route {
+	border: 1px solid #000;
+	height: 70px;
+	width: 200px;
+}
